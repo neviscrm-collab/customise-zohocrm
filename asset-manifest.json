@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/customise-zohocrm/static/css/main.f1fd4490.css",
+    "main.js": "/customise-zohocrm/static/js/main.f37e2ed3.js",
+    "static/js/453.23f1caa9.chunk.js": "/customise-zohocrm/static/js/453.23f1caa9.chunk.js",
+    "index.html": "/customise-zohocrm/index.html",
+    "main.f1fd4490.css.map": "/customise-zohocrm/static/css/main.f1fd4490.css.map",
+    "main.f37e2ed3.js.map": "/customise-zohocrm/static/js/main.f37e2ed3.js.map",
+    "453.23f1caa9.chunk.js.map": "/customise-zohocrm/static/js/453.23f1caa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1fd4490.css",
+    "static/js/main.f37e2ed3.js"
+  ]
+}
